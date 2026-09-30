@@ -1,1 +1,1 @@
---Lua Code
+print("test");
